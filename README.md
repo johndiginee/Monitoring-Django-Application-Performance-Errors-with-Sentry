@@ -48,3 +48,4 @@ I added Sentry to my Django application so that I can track and resolve any erro
 ## Screenshots
 <img src="https://res.cloudinary.com/dkezlmzn1/image/upload/v1699615896/Screenshot_2023-11-10_at_11.36.50_AM_yochwv.png"/>
 <img src="https://res.cloudinary.com/dkezlmzn1/image/upload/v1699615895/Screenshot_2023-11-10_at_12.10.49_PM_nlluot.png"/>
+<img src="https://res.cloudinary.com/dkezlmzn1/image/upload/v1699617014/Screenshot_2023-11-10_at_12.42.40_PM_pyqvvd.png"/>
